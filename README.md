@@ -11,7 +11,7 @@ Have you ever been looking through the Show and Tell forum trying to find some c
 * A unique project launcher, allowing you to leave the ScratchSaves menu and jump right into your game!
 
 
-### To download ScratchSaves, just download the latest version's HTML file. Then, you just have to open the file. Simple as that!
+### To download ScratchSaves, just download the latest releases' HTML file. Then, you just have to open the file. Simple as that!
 
 For those of you that are curious, I have also included the Scratch source code (sb3). Feel free to take a look.
 
